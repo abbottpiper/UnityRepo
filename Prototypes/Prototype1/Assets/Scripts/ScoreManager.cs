@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*Piper Abbott-Phillips
+ * ScoreManager.cs
+ * Assignment 2, Prototype 1
+ * This script keeps track of the current gamestate, as well as the players score. 
+ * If the game ends or the players score reaches the win condition, it ends the game and outputs text depending on whether they've won or lost
+ * It also allows the player to restart the game on a game over
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

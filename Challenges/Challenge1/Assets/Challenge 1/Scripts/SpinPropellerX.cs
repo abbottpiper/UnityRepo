@@ -1,6 +1,6 @@
 ﻿/*Piper Abbott-Phillips
- * Challenge 1 - SpinPropellerX script
- * Assignment 2, Challenge 1
+ *SpinPropellerX.cs
+ *Assignment 2, Challenge 1
  *This script tells the propeller object to spin forward at its Z-axis at a consistent and adjustable rate. 
 */
 

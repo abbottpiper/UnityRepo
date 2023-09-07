@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Piper Abbott-Phillips
+ * TriggerZoneAddScoreOnce.cs
+ * Assignment 2, Prototype 1
+ * This script checks whether the trigger zones have been colided wtih. If they have, it sets their state to "triggered" so they cannot be passed through again, and adds one point to the players score
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

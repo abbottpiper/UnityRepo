@@ -1,6 +1,6 @@
 ﻿/*
  *Piper Abbott-Phillips
- *Challenge1 - FollowPlayerX script
+ *FollowPlayerX.cs
  *Assignment 2, Challenge 1
  *This script defines the variable of the player object, and tells the main camera to follow its position
  */

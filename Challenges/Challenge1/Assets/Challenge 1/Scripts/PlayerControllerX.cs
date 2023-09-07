@@ -1,6 +1,6 @@
 ﻿/*Piper Abbott-Phillips
- * Challenge 1 - PlayerControllerX script
- * Assignment 2, Challenge 1
+ *PlayerControllerX.cs
+ *Assignment 2, Challenge 1
  *This script is responsible for taking player keyboard input, and controlling the player object's speed and direction.
 */
 

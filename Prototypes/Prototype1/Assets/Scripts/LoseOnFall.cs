@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Piper Abbott-Phillips
+ * LoseOnFall.cs
+ * Assignment 2, Prototype 1
+ * This script checks to see if the player object's y position is below the play area. If it is, it ends the game
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Piper Abbott-Phillips
+ * CamFollowPlayer.cs
+ * Assignment 2, Prototype 1
+ * This script updates the main camera's position every frame to follow the player object at an offset
+ */ 
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

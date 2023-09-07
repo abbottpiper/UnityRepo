@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*Piper Abbott-Phillips
+ * PlayerController.cs
+ * Assignment 2, Prototype 1
+ * This script takes player keyboard input and moves the car vertically and horizontally at an adjustable speed
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

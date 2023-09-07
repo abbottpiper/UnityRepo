@@ -1,6 +1,9 @@
 ﻿/*
- *
- *
+ *Piper Abbott-Phillips
+ *Challenge1 - TriggerZoneAddScoreOnceX script
+ *Assignment 2, Challenge 1
+ *This script checks to see if the player object enters the boxes trigger.
+ *If they do, it changes the state of the trigger to true, and adds one point to the players score
  */
 
 

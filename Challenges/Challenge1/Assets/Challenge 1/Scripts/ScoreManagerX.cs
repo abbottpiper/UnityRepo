@@ -1,7 +1,8 @@
-﻿/*
- *
- *
- */
+﻿/*Piper Abbott-Phillips
+ * Challenge 1 - ScoreManagerX script
+ * Assignment 2, Challenge 1
+ *This script tracks the players score and checks the current gamestate. It displays a message according to whether the player has won or lost. It also allows players to restart the game.
+*/
 
 
 

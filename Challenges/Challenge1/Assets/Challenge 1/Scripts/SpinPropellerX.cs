@@ -1,7 +1,8 @@
-﻿/*
- *
- *
- */
+﻿/*Piper Abbott-Phillips
+ * Challenge 1 - SpinPropellerX script
+ * Assignment 2, Challenge 1
+ *This script tells the propeller object to spin forward at its Z-axis at a consistent and adjustable rate. 
+*/
 
 
 
@@ -22,6 +23,7 @@ public class SpinPropellerX : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //I'm not 100% sure the Time.deltaTime is needed in this line, but it's working so I'm not gonna mess with it anymore
         transform.Rotate(Vector3.forward * rotationSpeed * Time.deltaTime);
     }
 }

@@ -1,4 +1,9 @@
-﻿//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
+﻿       /*
+       * Piper Abbott-Phillips
+       * HealthSystemX.cs
+       * Challenge 2, Assignment 3
+       * Code tracks player health and displays health value as a sprite on the UI. If player health falls to 0, code ends game and allows player to reload the sc
+       */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿      /*
+       * Piper Abbott-Phillips
+       * ShootPrefab.cs
+       * Prototype 2, Assignment 3
+       * Code checks for space key press, and on button down, shoots a prefab at the players current location
+       */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

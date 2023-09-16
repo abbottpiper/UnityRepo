@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+       * Piper Abbott-Phillips
+       * DestroyOutOfBounds.cs
+       * Prototype 2, Assignment 3
+       * Code checks whether a game object leaves the play field, both from the top and bottom. If it does, the object is destroyed. If it leaves from the bottom boundary, HealthSystem is refrerenced to take 1 damage
+       */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

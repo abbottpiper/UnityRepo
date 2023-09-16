@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿       /*
+       * Piper Abbott-Phillips
+       * SpawnManager.cs
+       * Prototype 2, Assignment 3
+       * Code spawns random animal prefab from the array and randomly places them between the screen boundaries. Using a coroutine, the game creates a random spawn delay between 1.3 and 3 seconds
+       */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+       * Piper Abbott-Phillips
+       * DisplayScore.cs
+       * Prototype 2, Assignment 3
+       * Code controls the score display textbox. Pulls reference from the DetectCollisions to tell when to add 1 to player score.
+       */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

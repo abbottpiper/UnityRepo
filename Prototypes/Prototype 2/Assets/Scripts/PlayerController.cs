@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+       * Piper Abbott-Phillips
+       * PlayerController.cs
+       * Prototype 2, Assignment 3
+       * Code allows player to move horizontally across the screen. Code also holds player character in game boundary
+       */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

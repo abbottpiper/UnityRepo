@@ -1,4 +1,9 @@
-﻿//This script is based on https://www.youtube.com/watch?v=3uyolYVsiWc
+﻿      /*
+       * Piper Abbott-Phillips
+       * HealthSystem.cs
+       * Prototype 2, Assignment 3
+       * Code tracks current player health and displays it on the UI using heart sprites. Pulls reference from the DestroyOutOfBounds script to subtract 1 hp for each ball destroyed by boundary
+       */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

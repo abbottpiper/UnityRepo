@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+       * Piper Abbott-Phillips
+       * DetectCollisionsX.cs
+       * Challenge 2, Assignment 3
+       * Code trakcs whether a game object is destroyed with a collision box. If it is, it references the score tracker and adds 1 to the current score
+       */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Piper Abbott-Phillips
+* TriggerZoneAddScore.cs
+* Prototype 3, Assignment 4
+* Checks if the player has collided with the TriggerZone above the barrier. If they have, it adds 1 score to the UIManager's score system
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

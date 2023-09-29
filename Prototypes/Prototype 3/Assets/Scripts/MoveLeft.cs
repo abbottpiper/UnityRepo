@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Piper Abbott-Phillips
+* MoveLeft.cs
+* Prototype 3, Assignment 4
+* Continually moves objects to the left towards the player and destroys objects that go off screen
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Piper Abbott-Phillips
+* SpawnManager.cs
+* Prototype 3, Assignment 4
+* Spawns barrier prefabs at a specified rate, stops spawning when the game is over
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

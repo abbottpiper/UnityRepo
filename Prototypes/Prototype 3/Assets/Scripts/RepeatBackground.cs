@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Piper Abbott-Phillips
+* RepeatBackground.cs
+* Prototype 3, Assignment 4
+* Script tracks x position of background object, and if it goes off screen, resets it to half of its width (allowing it to repeat endlessly)
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

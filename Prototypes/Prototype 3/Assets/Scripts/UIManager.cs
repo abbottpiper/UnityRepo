@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿      /*
+      * Piper Abbott-Phillips
+      * UIManager.cs
+      * Prototype 3, Assignment 4
+      * Code tracks player score and win condition when colliding with game objects trigger points. Displays win/loss message and allows players to reload the scene with a button press
+      */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

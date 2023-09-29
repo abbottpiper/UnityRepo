@@ -46,11 +46,16 @@ public class UIManagerX : MonoBehaviour
         }
         if (score >= 5)
         {
+            playerControllerScriptX.gameOver = true;
             scoreText.text = "You Win!\n Press R to Play Again ";
+            won = true;
+
         }
         if (playerControllerScriptX.gameOver && Input.GetKeyDown(KeyCode.R))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
+
+        
     }
 }

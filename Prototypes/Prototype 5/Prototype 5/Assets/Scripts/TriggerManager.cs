@@ -1,6 +1,6 @@
 /*Piper Abbott-Phillips
  * TriggerManager.cs
- * Prototype 5
+ * Prototype 5/Assignment 6
  * This script checks whether the win trigger has been entered, and if it has, it displays the You Win text
  */
 using System.Collections;

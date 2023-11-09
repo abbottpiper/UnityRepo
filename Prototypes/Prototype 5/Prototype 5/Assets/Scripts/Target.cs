@@ -1,6 +1,6 @@
 /*Piper Abbott-Phillips
  * Target.cs
- * Prototype 5
+ * Prototype 5/ Assigment 6
  * This script assigns a health value to any object it's attached to. If it is hit by a raycast, the objects health is reduced until it's destroyed. 
  */
 using System;

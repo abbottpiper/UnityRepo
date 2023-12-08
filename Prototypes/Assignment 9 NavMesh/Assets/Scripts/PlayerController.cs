@@ -1,5 +1,5 @@
 ﻿/*Piper Abbott-Phillips
- * MoveToClickPoint.cs
+ * PlayerController.cs
  * Assignment9 NavMesh
  * This script is a copy of the MoveToClickPoint script, while also referencing the ThirdPersonCharacter script, passing in the information from the NavMeshAgent. 
  * It also excludes rotational update due to the character animation
